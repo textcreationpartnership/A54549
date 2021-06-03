@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petition of the knights, gentlemen, and yeomanry of the country of Devonshire humbly desiring that they may have an authorised power speedily to raise armes, to suppresse the tumultuous meetings of recusanes, church papists, and other desperate and suspicious persons, which, if not timely prevented may much indanger their peace and safety : also that Plimouth may be dayly guarded with a traine-band, certaine priests and Iesuits being lately come over in merchants habbit, and royally entertained by the popish faction : together with their humble motion concerning bishops and scandalons ministers : as it was presented to the honourable House of Commons, January 5, 1641.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54549</idno><idno type="EEBO-CITATION">12993088</idno>
+  <idno type="VID">96352</idno>
+  <idno type="EEBO-PROQUEST">2248534640</idno>
+  
+            <idno type="STC">Wing P1808</idno>
+            <idno type="STC">ESTC R208405</idno>
+            <idno type="OCLC">12993088</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 257:E181, no 27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petition of the knights, gentlemen, and yeomanry of the country of Devonshire humbly desiring that they may have an authorised power speedily to raise armes, to suppresse the tumultuous meetings of recusanes, church papists, and other desperate and suspicious persons, which, if not timely prevented may much indanger their peace and safety : also that Plimouth may be dayly guarded with a traine-band, certaine priests and Iesuits being lately come over in merchants habbit, and royally entertained by the popish faction : together with their humble motion concerning bishops and scandalons ministers : as it was presented to the honourable House of Commons, January 5, 1641.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. W. and T. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Devon (England) --  History --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96352:1"/>
+            <pb facs="tcp:96352:1"/>
+            <p>THE PETITION <hi>Of</hi> the Knights, Gentlemen, and Yeomanry of the Country of Devonshire.</p>
+            <p>Humbly desiring, That they may have an Authorised power sPeedily to raise Armes, to suppresse the tumultuous meetings of Recu<g ref="char:EOLhyphen"/>sants, Church papists, and other desperate and suspitious persons, which, if not timely pre<g ref="char:EOLhyphen"/>vented may much indanger their peace and safety.</p>
+            <p>Also that Plimouth may be dayly guarded with a Traine-Band; Certaine priests and Iesuits being lately come over in merchants habbit, and royally entertained by the popish faction, <hi>Together,</hi> With their humble motion Concerning Bishops and Scandalous Ministers: As it was Presented to the Honourable House of Commons January 5. 1641.</p>
+            <p>London Printed for J. W. and T. B. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:96352:2"/>
+            <pb n="1" facs="tcp:96352:2"/>
+            <head>The PETITION Of the Knights, Gentlemen, and Yeo<g ref="char:EOLhyphen"/>manry of the County of Devonshire.</head>
+            <p>THat your Petitioners by information doe understand that the Parliament hath by di<g ref="char:EOLhyphen"/>vers Orders, Declarations, and Proclamations in his Majesties name, prohibited the resort and meeting of Recusants, and all of the Romish fa<g ref="char:EOLhyphen"/>ction, and diverse warrants have issued out for the apprehending of Priests and Iesuits, lurking here and there in diverse places of this King<g ref="char:EOLhyphen"/>dome, declaring them thereby to bee the most dangerous persons in this State, to stir up sedi<g ref="char:EOLhyphen"/>tion, Rebellion, and insurrections against his
+<pb n="2" facs="tcp:96352:3"/> Maiesty, his High Court of Parliament, his Lords and Councellors, to the overthrow and destruction of the Religion and Lawes establish<g ref="char:EOLhyphen"/>ed and setled in this Land, by the wisedome of the King, and his great Councell of State, that they may bee proceeded and prosecuted against according to the Lawes of this Land in that case provided.</p>
+            <p>And further the Wisedome of this Parlia<g ref="char:EOLhyphen"/>ment hath piously endeavoured by their procee<g ref="char:EOLhyphen"/>dings, against scandalous and dissolute Ministers, and preachers to purge the corruption that is crept into the Clergie and to place in the Mini<g ref="char:EOLhyphen"/>stry able and learned men and of holy lives and conversation, that not onely by the purity of their Doctrine, but intregrity of their lives, by their example might propogate the Kingdom of Christ, and advance his glory.</p>
+            <p>Likewise the Parliament have endeavovred to provide for them a liberall maintenance, wherby those aspersions cast upon this Honourable As<g ref="char:EOLhyphen"/>that they take all from the Clergy, and discou<g ref="char:EOLhyphen"/>rage men in bringing up their Children, in that function, these aspersions we find to be false. And not only to draw the minds and affections of his Maiesties good subiects from the love of the Par<g ref="char:EOLhyphen"/>liament, but to hinder thereby the redressing of our grievances, by punishing these delinquents, and settling such lawes and statutes, that we may say this is ours.</p>
+            <pb n="3" facs="tcp:96352:3"/>
+            <p>Not the Bishops or Clergy, to the pampering and inriching there Coffers, norishing them thereby in Idlenesse, Pride, Avarice, Luxury, and all Lasciviousnesse, to the impoverishing our selves and families▪ but onely freely to allow the servants and Men of God, or spirituall Pastors and instructors, painefull and industrious tea<g ref="char:EOLhyphen"/>chers of the pure Word of God (not their owne inventions, or the traditions of men, or of the power and prerogative of the King, that al the Sub<g ref="char:EOLhyphen"/>ject hath is his. Or that we may without danger receive into our Church the Ceremonies of the Church of <hi>Rome,</hi> that it is necessary to have cor<g ref="char:EOLhyphen"/>respondency with the Pope, that the Church of <hi>Rome</hi> in Fundamentall poynts of Religion doe not erre, and many other tenents of Doctrine de<g ref="char:EOLhyphen"/>vised by man, whose originall is from the Devill, and not Christ; but to allow willingly and cheer<g ref="char:EOLhyphen"/>fully, good men a sufficient maintenance, is our desire.</p>
+            <p>Now having by way of remonstrance shewed the good Orders, Lawes, and Edicts of this pre<g ref="char:EOLhyphen"/>sent Parliament, to our great comfort and con<g ref="char:EOLhyphen"/>tentment, and we perswade our selves, to the great comfort and contentment of the whole King<g ref="char:EOLhyphen"/>dome, that are well affected in Religion, and to government. We humbly beseech this Honoura<g ref="char:EOLhyphen"/>ble House to take into their wise considerations, these propositions following, concerning our particular Counties, which we earnestly desire may be consented unto by this House, and by Authority of the Parliament, joyned with his
+<pb n="4" facs="tcp:96352:4"/> Majesties Assent may be ratified and confirmed.</p>
+            <p n="1">1. That the Lawes enacted against Recusants, may be with severity and all covenient speed, put in execution ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inst the greatest of them, to make them exemplary to the rest, that they being re<g ref="char:EOLhyphen"/>strained and punished, the meaner sort may with feare dehorted from daring to put in practise a<g ref="char:EOLhyphen"/>ny of their evill designes against Protestants, and keepe themselves from mutinous Insurrections.</p>
+            <p n="2">2. That Priests and Jesuits, either already Ap<g ref="char:EOLhyphen"/>prehended and condemned by the Law, or that shall be Apprehended and condemned, may bee speedily executed without any protraction of time, they being knowne so dangerous to the State.</p>
+            <p n="3">3. That all Officers in our Country, that are Papists or that way inclined, as when comman<g ref="char:EOLhyphen"/>ded we shall give up to the House their names, in any places of command, as Colonels, Captaines, Lieutenants, and other Officers of War. As like<g ref="char:EOLhyphen"/>wise such Papists to whom great places of trust and strength are committed to their Loyalty, as Ports, Townes, &amp;c. may be wirh speed removed, and Protestants placed in their stead.</p>
+            <p n="4">4. That those of the Clergy that are either Scandalous in their lives, or disaffected to the true Religion, Erronious in their Doctrine, or any wayes inclined to the Romish Religion, or otherwise Superstitious may be deprived of their livings, degraded from the Ministry, onely such competency allowed them for the sustentation of their families during life, may be allowed as
+<pb n="5" facs="tcp:96352:4"/> by the wisedome of this House shall seeme requi<g ref="char:EOLhyphen"/>site, and this to be expedited with all convenien<g ref="char:EOLhyphen"/>cy as may be.</p>
+            <p n="5">5. That this honourable House would set forth an Edict, whereby we (certaine of us for that purpose appoynted) may have power to raise Armies, to allay and suppresse the meetings and assembling together of Recusants, Church Pa<g ref="char:EOLhyphen"/>pists, and many other desperate and suspicious persons, altogether affected to Papistry, though outwardly in shew professe themselves dissolute and disordered Protestants, ready upon any occa<g ref="char:EOLunhyphen"/>sion of advantage to side with that faction, to pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in practise their wicked plots, in agitation against us,</p>
+            <p n="6">6. That Plimouth may be guarded daily by a trained-band in Armes, ready to repell any trea<g ref="char:EOLhyphen"/>cherous designe that may be attempted, by the adverse party resorting much to the Port.</p>
+            <p n="7">7. That Delinquents may be without further delay brought to tryall, and suffer such punish<g ref="char:EOLhyphen"/>ment as the guiltynesse of their Crimes shall bee found to discerne.</p>
+            <p n="8">8. That all Papists may be banished the Land that are not native, and that to depart within <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time certaine, under paine of death.</p>
+            <p n="9">9. That an order may be made, and warrants issued upon the same, to certaine trusty Officers appontyted by the House, to m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke diligent search for the Apprehending such persons as shall come from forraigne States, and be examined; there having beene lately come other certaine in Mer<g ref="char:EOLhyphen"/>chants
+<pb n="6" facs="tcp:96352:5"/> habite suspected, and stro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly presumed to be Priests and Jesuits, and as they shall be found, proceeded against according to Law.</p>
+            <p>These particulars your Petitioners humbly prayeth may be taken into consideration of this great and wise Councell, and such order taken therein, as to your wisedomes shall seeme meet,</p>
+            <q>And your Petitioners shall constantly pray, for the happy continuance of this Parliament, and that such effects may follow your Coun<g ref="char:EOLhyphen"/>cels and Consultations, as may the happy set<g ref="char:EOLhyphen"/>ling of all things amisse, both in Church and Sate, and the perpetuating of the peace and tranquillity of his Sacred Majesty, and all his faithfull and loyall Subjects.</q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
